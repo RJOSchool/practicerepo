@@ -11,3 +11,5 @@ choice : dict = {"rock":1,
                  "paper":2
                  "scissor":3}
 
+if (int(input)==1):
+    pass
